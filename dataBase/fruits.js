@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Apple",
+        "calories":"95cal"
+    },
+    {
+        "name":"Grapes",
+        "calories":"104cal"
+    },
+    {
+        "name":"Mango",
+        "calories":"237cal"
+    },
+    {
+        "name":"Papaya",
+        "calories":"198cal"
+    },
+    {
+        "name":"Guava",
+        "calories":"451cal"
+    }
+
+]
