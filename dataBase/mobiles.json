@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Apple",
+        "prices":"$1000"
+    },
+    {
+        "name":"Nokia",
+        "calories":"$200"
+    },
+    {
+        "name":"Xiomi",
+        "calories":"$600"
+    },
+    {
+        "name":"REdmi",
+        "calories":"$198"
+    },
+    {
+        "name":"htc",
+        "calories":"$451"
+    }
+
+]
